@@ -1,0 +1,14 @@
+1. Gör en ändring i koden
+2. I terminalen, skriv:
+
+Lägg till din ändring i github:
+>git add .
+>git commit -m "ditt meddelande"
+>git push
+
+Sen för att deploya, skriv i terminalen:¨
+>git predeploy
+>git deploy
+
+Gå till din sida på git för att se ändringen, det tar en liten stund:
+https://valmackan.github.io/dotty-gaming/
